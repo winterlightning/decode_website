@@ -27,7 +27,7 @@ body.preview #app {
 	width: 550px;
 	height: 550px;
 	top: 50%;
-	left: 50%;
+	left: 43%;
 	margin-top: -275px;
 	margin-left: -275px;
 }
@@ -84,11 +84,11 @@ body.preview #more:hover {
 	color: #637164;
 }
 body.preview .photo {
-	background: url(iphone.jpg);
+	background: url(../images/iphone_screenshot.png) no-repeat right;
 	width: 1140px;
 	height: 780px;
 	position: absolute;
-	left: 50%;
+	left: 30%;
 	margin-left: -570px;
 	top: 0px;
 	-webkit-transform: translate3d(0,0,0);
